@@ -1,1 +1,1 @@
-# react-todo-list
+This is a simple project of a Todo List using react
